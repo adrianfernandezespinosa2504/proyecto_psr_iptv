@@ -95,12 +95,22 @@ La organización de los directorios y ficheros se irá completando conforme se i
 
 
 [1] Norma ITU-T Y.1541 - Network performance objectives for IP-based services: https://www.itu.int/rec/T-REC-Y.1541-201112-I/es
+
 [2] RFC 1112 - Host extensions for IP multicasting: https://www.rfc-editor.org/info/rfc1112/
+
 [3] RFC 2236 - Internet Group Management Protocol, Version 2: https://www.rfc-editor.org/rfc/rfc2236.txt
+
 [4] RFC 4601 - Protocol Independent Multicast - Sparse Mode (PIM-SM): Protocol Specification (Revised): https://www.rfc-editor.org/rfc/rfc4601.txt
+
 [5] Digital Video Broadcasting (DVB); Transport of MPEG-2 TS Based DVB Services over IP Based Networks: https://www.etsi.org/deliver/etsi_ts/102000_102099/102034/01.04.01_60/ts_102034v010401p.pdf
+
 [6] Digital Video Broadcasting (DVB) - Specification for the use of Video and Audio Coding in Broadcasting Applications based on the MPEG-2 Transport Stream: https://www.etsi.org/deliver/etsi_ts/101100_101199/101154/01.08.01_60/ts_101154v010801p.pdf
+
 [7] Norma ITU-T H.610 - VSDL de servicio completo – Arquitectura de sistema y del equipo en las instalaciones del cliente: https://www.itu.int/rec/T-REC-H.610-200307-I/es
+
 [8] IEEE Standards Association. IEEE Standard for Ethernet: https://standards.ieee.org/ieee/7003/10422/
+
 [9] Norma ITU-T H.264 - Advanced video coding for generic audiovisual services: https://www.itu.int/rec/T-REC-H.264-202606-I/es
+
 [10] Norma ITU-T H.265 - High efficiency video coding: https://www.itu.int/rec/T-REC-H.265-202601-I/es
+
